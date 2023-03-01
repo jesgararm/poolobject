@@ -66,7 +66,8 @@ public class ReusablePoolTest {
 			assertNotNull(object1);
 			// Comprobamos que es una instancia de Reusable
 			assertTrue(object1 instanceof Reusable);
-
+			// Comprobamos que se puede usar
+			assertEquals(object1.util(), object1.hashCode()+ "  :Uso del objeto Reutilizable");
 			// Asignamos el primero
 			object2 = pool.acquireReusable();
 			// Comprobamos que no sea nulo
