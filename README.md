@@ -31,4 +31,4 @@ Workshop to use good practices in software developmemnt: testing and measurement
 - Unas 5 horas aproximadamente de trabajo de ambos.El 75% del tiempo de trabajo ha sido la configuración de las herramientas, ya que 1 de nosotros tuvo que instalar desde cero todo, documentación sobre las herramientas que debian usarse. El resto del esfuerzo ha sido en la implementación de las pruebas,redactar las respuestas en el readme y el Markdown.
 
 **¿Cuál es el número de fallos encontrados en el código?**
-No se encontó ningún fallo en el código, compila correctamente se puede observar en Github Actions.
+- No se encontó ningún fallo en el código, compila correctamente se puede observar en Github Actions.
