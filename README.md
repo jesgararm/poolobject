@@ -3,10 +3,6 @@ poolobject
 [![Java CI](https://github.com/jesgararm/poolobject/actions/workflows/ci.yml/badge.svg)](https://github.com/jesgararm/poolobject/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/jesgararm/poolobject/branch/master/graph/badge.svg?token=9PXFGTYL4B)](https://codecov.io/gh/jesgararm/poolobject)
 
-Java code example of creational design pattern pool object
-
-Workshop to use good practices in software developmemnt: testing and measurement.
-
 ## **Autores**
 - [Adrián, Cordero Bernal](https://github.com/Adripy)
 - [Jesús, Garcia Armario](https://github.com/jesgararm)
